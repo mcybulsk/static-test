@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>My New Hugo Site</title><link>http://example.org/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Nov 2021 00:07:02 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Second</title><link>http://example.org/post/second/</link><pubDate>Thu, 04 Nov 2021 00:07:02 +0100</pubDate><guid>http://example.org/post/second/</guid><description>Thisis the second post!
+This is some text
+And some footer
+Whatesv</description></item><item><title>Test</title><link>http://example.org/post/test/</link><pubDate>Wed, 03 Nov 2021 23:59:00 +0100</pubDate><guid>http://example.org/post/test/</guid><description>Something something bla bla bla
+Okay whatever!</description></item></channel></rss>
