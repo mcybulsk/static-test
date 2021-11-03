@@ -1,4 +1,4 @@
-baseURL = 'https://mcybulsk.github.io/static-test/'
+baseURL = 'http://test.cybulski.me/'
 languageCode = 'en-us'
 title = 'My New Hugo Site - Test'
 theme = 'PaperMod'
